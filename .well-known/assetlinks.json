@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.heyu.security",
+      "package_name": "app.nayda.nayda",
       "sha256_cert_fingerprints": ["1B:29:F3:56:20:FC:9D:0C:46:87:27:0E:C4:D3:5E:97:EE:7A:71:BE:2F:A9:7A:C7:2E:DC:C7:46:E0:D7:EE:77"]
     }
   }
