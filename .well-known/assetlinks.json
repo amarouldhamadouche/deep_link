@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.heyu.security",
-      "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      "sha256_cert_fingerprints": ["1B:29:F3:56:20:FC:9D:0C:46:87:27:0E:C4:D3:5E:97:EE:7A:71:BE:2F:A9:7A:C7:2E:DC:C7:46:E0:D7:EE:77"]
     }
   }
 ] 
