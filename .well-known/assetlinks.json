@@ -4,7 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "app.dzappart.dzappart",
-      "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C", 
+      "1A:7E:A8:84:E9:F0:AA:17:A7:20:0C:80:AF:31:4D:F1:85:B3:33:F2:34:B1:5A:2B:47:23:1B:D3:9A:08:E8:80", 
+        "42:0A:0F:D2:55:51:A8:BF:36:FD:AD:35:D1:95:EC:EF:3C:50:52:2A:D4:3C:82:FD:FF:51:28:C5:99:69:AA:3C"
+      ]
     }
   }
 ] 
